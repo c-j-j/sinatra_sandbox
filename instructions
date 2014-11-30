@@ -1,0 +1,7 @@
+gem install sinatra
+gem install shotgun
+gem install sqlite3 datamapper dm-sqlite-adapter
+gem install rspec
+gem install ZenTest
+gem install rack
+gem install rack-test
